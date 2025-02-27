@@ -33,7 +33,8 @@ This repository contains all the code I wrote while learning **React.js** from *
 1. Clone this repository:
    ```bash
    git clone https://github.com/YASH-EE-2/react-learning.git
-   cd react-learning
+   cd react_tutorials # for basic concepts of react
+   cd react_projects # for react mini project
    ```
 2. Install dependencies:
    ```bash
@@ -46,14 +47,13 @@ This repository contains all the code I wrote while learning **React.js** from *
 
 ## 📂 Folder Structure
 ```
-📦 react-learning
-│   ├── 📁 tutorials       #tutorials- basic concepts
+│   ├── 📁 react_tutorials       #tutorials- basic concepts
         ├──📁02counter
         ├──📁03tailwindprop
         ├──📁customReact
         ├──📁my-app
         ├──📄 package-lock.json
-│   ├── 📁 projects    # Mini projects showcasing React concepts
+│   ├── 📁 react_project    # Mini projects showcasing React concepts
         ├──📁04bgchanger
         ├──📁05project
         ├──📁06currencyConverter
